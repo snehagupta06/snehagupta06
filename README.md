@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **small projects and websites** to sharpen my skills
 - 🤝 I’m looking for help with **learning how to code more proficiently**
 - 💬 Ask me about **HTML, React, C++, MySQL, and Figma**
-- 📫 How to reach me: **yourpersonalemail@example.com** (replace with your real email)
+- 📫 How to reach me: **Snehagupta061204@gmail.com**
 - ⚡ Fun fact: **I'm a coffee addict ☕, I love gaming 🎮, and I always appreciate a good conversation!**
 
 ---
